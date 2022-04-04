@@ -1,4 +1,4 @@
-# PYBer_Analasis
+# PYBer_Analysis
 PyBer Ride-share data 
 ## Overview of the analysis: Explain the purpose of the new analysis.
 V. Isualize has given myself and Omar a brand-new assignment. Using our Python skills and knowledge of Pandas, we are tasked create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, we created a multiple-line graph that shows the total weekly fares for each city type. Finally, we submit a written report that summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
